@@ -1,7 +1,15 @@
 # 🎂 Birthday Ledger
+Never forget a birthday again.
+
 
 A private birthday tracker with one-click Google Calendar integration.
 No accounts, no passwords — just a unique private link per user.
+
+
+
+
+**Visit the app here → https://birthday-ledger.onrender.com**
+
 
 ---
 
@@ -15,24 +23,7 @@ No accounts, no passwords — just a unique private link per user.
 
 ---
 
-## Deploy on Railway (Recommended — Free)
 
-1. Go to [railway.app](https://railway.app) and sign up
-2. Click **New Project → Deploy from GitHub**
-3. Push this folder to a GitHub repo, connect it
-4. Railway auto-detects Node.js and runs `npm start`
-5. Click **Generate Domain** → you get a free `.railway.app` URL
-
-That's it. Railway handles everything.
-
----
-
-## Deploy on Replit (Easiest)
-
-1. Go to [replit.com](https://replit.com) and sign up
-2. Click **Create Repl → Import from GitHub** (or upload files)
-3. Replit auto-installs dependencies and runs `npm start`
-4. Click the link Replit gives you — your app is live
 
 ---
 
