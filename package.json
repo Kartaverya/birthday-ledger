@@ -1,0 +1,17 @@
+{
+  "name": "birthday-ledger",
+  "version": "1.0.0",
+  "description": "A private birthday tracker with Google Calendar integration",
+  "main": "birthday-api.js",
+  "scripts": {
+    "start": "node birthday-api.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.3",
+    "express": "^4.18.3",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
